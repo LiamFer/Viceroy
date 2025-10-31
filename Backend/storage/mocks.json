@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "method": "GET",
+        "path": "/users",
+        "response": {
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Liam"
+                },
+                {
+                    "id": 2,
+                    "name": "Maya"
+                }
+            ]
+        },
+        "status_code": 200,
+        "delay_ms": 300
+    }
+]
